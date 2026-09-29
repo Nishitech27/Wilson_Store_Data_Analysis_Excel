@@ -54,7 +54,8 @@ Six pivot tables were created to summarise the data and help identify trends in 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-<img width="1063" height="545" alt="Wilson Store Dashboard" src="https://github.com/user-attachments/assets/6be47555-97b9-407b-954c-f87812af4d22" />
+<img width="1065" height="545" alt="Wilson Store Dashboard" src="https://github.com/user-attachments/assets/f6fd8c17-92ec-427b-bd50-5db01fcab1a5" />
+
 
 
 ## Insights :
